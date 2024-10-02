@@ -1,17 +1,3 @@
-1.	Instalar o Express:
-Primeiro, instale o Express, que facilita o gerenciamento de rotas e o serviço de arquivos estáticos.
-No terminal, execute:
-
-npm install express
-
-2.	Estrutura de Diretórios:
-Crie uma estrutura de diretórios onde seus arquivos HTML e CSS estarão. Por exemplo:
-
-Estrutura de Diretórios Completa:
-
-├── server.js
-├── public
-    ├── index.html
-    ├── about.html
-    ├── styles.css
-
+Neste laboratório sobre HTML aprendemos a como usar o Node.js e nos aprofundamos masi em javascript, roteando servidor e criando rotas no site.
+As rotas serviram para mudar de um página para outro como por exemplo ir da página inicial(index) para a Página sobre (about).
+Além da página de erro 404, quando o usuário coloca um endereço de site errado.
